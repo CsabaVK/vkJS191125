@@ -1,0 +1,24 @@
+#keret{
+    width: 500px;
+    min-height: 200px;
+    padding: 50px;
+
+    background-color: #edb;
+    color: #986;
+
+    margin: 100px auto;
+    border: 8px solid #986;
+    border-radius: 40px;
+
+    box-shadow: 10px 10px 25px black;
+}
+#ido{
+    font-size: 150px;
+    color: black;
+}
+#date{
+    font-size: 50px;
+    text-align: center;
+    margin: 0;
+    color: black;
+}
